@@ -20,7 +20,7 @@ https://github.com/201502038/Collaton
  - 모바일 어플리케이션 배포를 위한 Cross-platform(React Native)사용
  - Expo를 기반으로 작업
 
-<img width="100" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760808-abfcc480-2f06-11ea-9188-f8b58bfa4fdf.jpg"><img width="100" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760812-ad2df180-2f06-11ea-9812-3edb16e0c61a.jpg"><img width="100" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760813-ae5f1e80-2f06-11ea-82be-c47297dcbe1a.jpg">
+<img width="150" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760808-abfcc480-2f06-11ea-9188-f8b58bfa4fdf.jpg"><img width="150" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760812-ad2df180-2f06-11ea-9812-3edb16e0c61a.jpg"><img width="150" alt="collathonfront1" src="https://user-images.githubusercontent.com/49027631/71760813-ae5f1e80-2f06-11ea-82be-c47297dcbe1a.jpg">
  
  
 4. 제작UI
