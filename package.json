@@ -10,7 +10,7 @@
   "dependencies": {
     "core-util-is": "^1.0.2",
     "expo": "^35.0.1",
-    "expo-cli": "^3.8.0",
+    "expo-cli": "^6.3.12",
     "expo-constants": "^7.0.1",
     "expo-font": "^7.0.0",
     "expo-linear-gradient": "^7.0.1",
